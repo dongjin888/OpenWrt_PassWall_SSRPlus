@@ -1,4 +1,4 @@
-# 第一次搞编译，研究了一个星期，基本搞懂原理了 PassWall ，SSR+，SoftEntheVpn，SmartDns
+# 第一次搞编译， PassWall ，SSR+，SoftEntheVpn，SmartDns
 
 
 1、关于包含软件
@@ -24,4 +24,4 @@
 
 
 
-感谢XTWZ整理的https://www.right.com.cn/forum/thread-344825-1-1.html
+感谢这个老板整理的 https://mtom.ml/827.html#.YFP7YTPjzCW
